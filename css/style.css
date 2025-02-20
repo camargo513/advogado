@@ -136,6 +136,9 @@ i {
     position: relative;
 }
 
+.imagem-contaiber i{
+    position: absolute;
+}
 .section-title{
     color: var(--main-color);
     font-weight: bold;
